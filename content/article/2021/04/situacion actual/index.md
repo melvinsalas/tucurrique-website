@@ -1,6 +1,6 @@
 ---
 title: "Situación Covid-19"
-date: 2021-04-16T22:00:00-06:00
+date: 2021-04-25T14:00:00-06:00
 categories: ['Salud']
 tags: ['COVID19']
 
