@@ -9,4 +9,4 @@ A solicitud de la ASADA Tucurrique se comunica la plaza vacante de Ingeniero.
 
 Los o las personas interesadas enviar el curriculum a la dirección electrónica administracion@asadatucurrique.com antes del 27 de mayo del 2021.
 
-![Image](featuredImage.jpg)
+![Image](image.jpg)
