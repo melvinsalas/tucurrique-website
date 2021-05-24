@@ -5,8 +5,6 @@ categories: ['Salud']
 tags: []
 
 ---
-Las fiestas de cumpleaños o cualquier otra celebración que involucre rompimiento de burbujas hay que evitarlas.
-
-Te sugerimos que celebrés el cumpleaños de forma virtual con tus amigos y familiares con mayor seguridad para todos y todas. Estás a tiempo de tomar la decisión correcta.
+Como gobierno local, con la colaboración de nuestra fisioterapeuta Jessica Sandoval Hernández, nos complace continuar trabajando desde casa con los Grupos Recreativos de Adultos Mayores del Distrito de Tucurrique, ahora con las Tardes de Oro, estimulando las áreas cognitivas 
 
 ![Image](featuredImage.jpg)
