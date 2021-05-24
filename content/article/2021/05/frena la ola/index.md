@@ -15,4 +15,4 @@ Adjunto comunicado y un link con una guía de mensajes con el cronograma de sali
 
 Enlace: [https://j.mp/34atsuO](https://j.mp/34atsuO)
 
-![Image](featuredImage.jpg)
+![Image](image.jpg)
