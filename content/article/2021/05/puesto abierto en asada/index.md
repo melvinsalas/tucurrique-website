@@ -5,8 +5,15 @@ categories: []
 tags: ['ASADA']
 
 ---
-A solicitud de la ASADA Tucurrique se comunica la plaza vacante de Ingeniero. 
+ASADA Tucurrique te invita a formar parte de nuestro equipo
+Puesto: Ingeniero
+<!--more-->
+Requisitos:
+- Licenciado ingeniería civil o agrícola
+- Experiencia mínima un 1 año en sistemas de agua potable, con respaldo en manejo hídrico e hidráulico.
+- Licencia B1 (opcional)
 
-Los o las personas interesadas enviar el curriculum a la dirección electrónica administracion@asadatucurrique.com antes del 27 de mayo del 2021.
+Enviar currículos al correo: administracion@asadatucurrique.com
+Fecha limite: 27 de mayo 2021.
 
 ![Image](image.jpg)
