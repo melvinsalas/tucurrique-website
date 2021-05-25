@@ -1,6 +1,6 @@
 ---
 title: "Pacto nacional, frená la ola, hacelo por Costa Rica"
-date: 2021-05-24T07:00:00-06:00
+date: 2021-05-25T08:00:00-06:00
 categories: []
 tags: ['COVID19']
 
