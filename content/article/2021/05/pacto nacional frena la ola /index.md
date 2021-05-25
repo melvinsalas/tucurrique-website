@@ -15,5 +15,3 @@ tags: ['COVID19']
 - Hacer un minuto de silencio en tributo a sus amigos, compañeros o familiares fallecidos.
 - Si va en su vehículo o transporte público, detenerse a las 12 medio día y mostrar su elemento o distintivo blanco.
 - Vigilias comunitarias o jornadas de oración por las víctimas
-
-![Image](image.jpg)
