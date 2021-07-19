@@ -9,12 +9,3 @@ Gracias a la coordinación con el Área de Cuidado de Oro de la Caja Costarricen
 <!--more-->
 
 La duración de este taller es de 4 jueves y brindará a las familias orientación en el cuido de su ser querido que padece este tipo de demencia.
-
-![Image_1](1.jpg)
-![Image_2](2.jpg)
-![Image_3](3.jpg)
-![Image_4](4.jpg)
-![Image_5](5.jpg)
-![Image_6](6.jpg)
-![Image_7](7.jpg)
-![Image_8](8.jpg)
