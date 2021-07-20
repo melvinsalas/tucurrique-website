@@ -1,6 +1,6 @@
 ---
-title: "Reunión con personeros del INA"
-date: 2021-07-19T11:00:00-06:00
+title: "Curso de inglés conversacional"
+date: 2021-07-16T15:00:00-06:00
 categories: []
 tags: []
 
