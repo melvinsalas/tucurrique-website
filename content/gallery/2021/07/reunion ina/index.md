@@ -1,6 +1,6 @@
 ---
 title: "Reunión con personeros del INA"
-date: 2021-07-19T8:00:00-06:00
+date: 2021-07-19T11:00:00-06:00
 categories: []
 tags: []
 
