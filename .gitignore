@@ -1,2 +1,3 @@
 /themes/bilberry-hugo-theme
-.DS_Store
+/resources
+**/.DS_Store
