@@ -1,6 +1,6 @@
 ---
-title: "Mini feria del Mujeres Emprendedoras"
-date: 2021-07-19T08:00:00-06:00
+title: "Recomendaciones por sismo"
+date: 2021-07-21T17:30:00-06:00
 categories: []
 tags: []
 
