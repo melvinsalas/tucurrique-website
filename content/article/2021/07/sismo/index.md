@@ -2,11 +2,13 @@
 title: "Recomendaciones por sismo"
 date: 2021-07-21T17:30:00-06:00
 categories: []
-tags: []
+tags: ["CNE", "Sismo", "911"]
 
 ---
 
 Ante posibles réplicas por sismo o nuevos eventos:
+
+<!--more-->
 
 * Mantenga la calma
 * Ubíquese en zonas seguras, previamente identificadas
