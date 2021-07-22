@@ -154,3 +154,5 @@ disqusShortname = ""
     endLevel = 5
     ordered = false
     startLevel = 2
+
+staticDir = ["static"]
