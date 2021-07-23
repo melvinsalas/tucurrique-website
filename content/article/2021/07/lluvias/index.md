@@ -1,6 +1,6 @@
 ---
 title: "Alerta por lluvias"
-date: 2021-07-21T17:30:00-06:00
+date: 2021-07-22T17:00:00-06:00
 categories: []
 tags: ["CNE", "Lluvias", "911"]
 
