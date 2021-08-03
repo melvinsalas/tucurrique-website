@@ -16,6 +16,6 @@ Por favor entrar al siguiente enlace: [https://forms.gle/NBD24SR3Uz5x5mAB8](http
 
 Fechas: Del viernes 30 de julio al domingo 08 de agosto del 2021
 
-Cualquier consulta pueden escribir o llamar al 88396740
+Cualquier consulta pueden escribir o llamar al [8839 6740](https://api.whatsapp.com/send?phone=50688396740)
 
 ¡Compártelo con tus vecinos!
