@@ -12,11 +12,15 @@ INA-Turrialba los invita a formar parte del curso de inglés que se impartirá d
 
 # Cupo Limitado
 
-_Inscripción en línea_: [inainscripcioncursos.ac.cr/WebForms/Default.aspx](https://www.inainscripcioncursos.ac.cr/WebForms/Default.aspx) a partir del 26 de agosto 2021 y hasta completar el cupo
-_Horario de clases_: De lunes a viernes de 7:30am a 12:00md
-_Fecha de inicio_: 11 de octubre de 2021
-_Fecha de finalización_: 24 de abril de 2021
-_Información adicional_: [2106-0300](tel:21060300) ext 0305 o [rcastromorales@ina.ac.cr](mailto:rcastromorales@ina.ac.cr) 
+**Inscripción en línea**: [inainscripcioncursos.ac.cr/WebForms/Default.aspx](https://www.inainscripcioncursos.ac.cr/WebForms/Default.aspx) a partir del 26 de agosto 2021 y hasta completar el cupo
+
+**Horario de clases**: De lunes a viernes de 7:30am a 12:00md
+
+**Fecha de inicio**: 11 de octubre de 2021
+
+**Fecha de finalización**: 24 de abril de 2021
+
+**Información adicional**: [2106-0300](tel:21060300) ext 0305 o [rcastromorales@ina.ac.cr](mailto:rcastromorales@ina.ac.cr) 
 
 ### Requisitos Generales
 
