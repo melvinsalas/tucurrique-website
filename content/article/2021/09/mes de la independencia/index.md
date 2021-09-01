@@ -17,3 +17,5 @@ Creemos que si no hubiera libertad no podríamos celebrar fechas importantes com
 Bendito Dios por esos hombres y mujeres valientes que lucharon para que hoy tengamos este pueblo que se llama Costa Rica.
 
 Solo es digno de la libertad el que sabe conquistarla cada día, las cadenas de la esclavitud solo atan las manos y la mente es la que hace al hombre libre o esclavo.
+
+![Image](image.jpg)
