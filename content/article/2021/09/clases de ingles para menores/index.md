@@ -14,7 +14,7 @@ En la Escuela Vieja de Tucurrique
 
 Información: [6101-0939](https://wa.me/50661010939)
 
-Sábados de 8:30am a 10:30am
-Sábados de 11:am a 1:30pm
+* Sábados de 8:30am a 10:30am
+* Sábados de 11:am a 1:30pm
 
 ![Image](image.jpg)
