@@ -6,7 +6,7 @@ tags: []
 
 ---
 
-El próximo viernes 24 de setiembre, se estará llevando a cabo, una campaña de vacunación de primera dosis de Covid-19, en cada una de las localidades del Distrito.
+El próximo viernes 24 de setiembre, se estará llevando a cabo, una campaña de vacunación de 1er dosis contra Covid-19, en cada una de las localidades del distrito.
 
 <!--more-->
 
