@@ -8,6 +8,8 @@ tags: []
 
 ¿Quieres conocer como manejamos los residuos en el distrito de Tucurrique?
 
+<!--more-->
+
 Tu participación y opinión es muy importante para nosotros
 
 - **Fecha**: Miércoles 29 de setiembre
