@@ -1,6 +1,6 @@
 ---
 title: "Evento virtual el próximo jueves"
-date: 2021-09-27T14:00:00-06:00
+date: 2021-09-25T14:00:00-06:00
 categories: []
 tags: []
 
